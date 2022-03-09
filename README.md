@@ -1,6 +1,6 @@
 # Chatapp
 
-Chatapp is a chat application that allows multiple users to talk with each other.
+Chatapp is a chat application that allows multiple users to talk with each other in real time.
 
 This application uses Go, gorilla websocket, HTML, CSS, and Javascript.
 
